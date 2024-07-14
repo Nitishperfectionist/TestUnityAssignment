@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# My Vite React Project
 
-Currently, two official plugins are available:
+This is a simple React project set up with Vite, styled with CSS. This README file includes instructions on how to use the Network tab in Google Chrome's DevTools to debug network requests made by your application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/Nitishperfectionist/TestUnityAssignment
+   cd testUnity_Assn
+
+2.Install the dependencies:npm i
+3.run applicatication:npm run dev
+
+## deployment link
+https://66935fe40dce1fc98d7ecf2a--vermillion-babka-3a0f48.netlify.app/
